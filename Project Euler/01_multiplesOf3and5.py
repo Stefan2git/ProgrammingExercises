@@ -16,3 +16,5 @@ def multiplesOf3and5(n,m):
     return summe
 
 print(multiplesOf3and5(1, 1000))
+
+#Answer: 233168
