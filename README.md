@@ -1,3 +1,3 @@
 # Programming Exercises
  
-The goal of this repository is to track my programming progress and serve as a reminder to keep learning and improving. 
+The goal of this repository is to track my programming progress and to serve as a reminder to keep learning and improving. 
