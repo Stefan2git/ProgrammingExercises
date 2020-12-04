@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/03_Programming/13_ProgrammingExercises/ProgrammingExercises/Project Euler/014_longestCollatz Sequence/main.c
+stdio.h
+-
+
