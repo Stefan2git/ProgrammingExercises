@@ -21,16 +21,14 @@
 
 from timeit import default_timer as timer
 
-#
+
 # claculates the triangular number for an input
-#
 def getDreieckszahl(n):
     dreieckszahl = (n*(n+1))/2
     return int(dreieckszahl)
 
-#
+
 # Outputs an array with primenumbers from 2 to n
-#
 def siebDesEratosthenes(n):
 
     numbers = []
@@ -57,9 +55,7 @@ def siebDesEratosthenes(n):
     return primzahlen
 
 
-#
 # Outputs the number of divisors for a given integer
-#
 def getTeiler(n, primzahlen):
 
     teiler = 1
