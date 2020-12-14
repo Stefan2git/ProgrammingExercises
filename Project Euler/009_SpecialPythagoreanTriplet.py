@@ -22,12 +22,13 @@ def pythagoreanTriplet():
 
             if (1000 - c_square_root) == (a + b) and a < b < c_square_root:
                 print(str(a) + " + " + str(b) + " + " +  str(c_square_root) + " = " + str(a+b+c_square_root))
-                return a,b,c_square_root
+                return a * b * c_square_root
 
-pythagoreanTriplet()
+print(pythagoreanTriplet())
 
 
-# Answer:
+# Answer: 31875000
+#
 # a = 200
 # b = 375
 # c = 425
